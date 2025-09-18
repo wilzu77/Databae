@@ -1,13 +1,7 @@
 {
-  "data": [
+  "data": [ // ✅ Nama properti 'data' sudah benar
     {
-      "nomor": "6285864264688"
-    },
-    {
-      "nomor": "6285863131467"
-    },
-    {
-      "nomor": "62858637373"
+      "nomor": "6285864264688" // ✅ Nama properti 'nomor' sudah benar
     }
-  ],
+  ]
 }
