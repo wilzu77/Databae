@@ -1,7 +1,7 @@
 {
-  "data": [ // ✅ Nama properti 'data' sudah benar
+  "data": [ 
     {
-      "nomor": "6285864264688" // ✅ Nama properti 'nomor' sudah benar
+      "nomor": "6285864264688"
     }
   ]
 }
